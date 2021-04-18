@@ -1,0 +1,33 @@
+body{
+    background-image: url('stud.jpg');
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+
+.students{
+    text-align: center;
+    background-color: blue;
+    color: cornsilk;
+    margin-left: 650px;
+    font-size: 25px;
+}
+
+th, td{
+    border: 1px solid black;  
+}
+
+ td  {
+    background-color: cyan;
+    color: black;
+}
+
+li {
+    list-style-type:  none;
+}
+.logo{
+    height: 60px;
+}
+
+.heading {
+    text-align: center;
+}
