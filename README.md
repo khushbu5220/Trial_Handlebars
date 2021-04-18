@@ -2,7 +2,7 @@
 
 Available Scripts In the project directory, you can run:
 
-Runs this repository in the development mode:
+Runs this repository in the development mode:<br>
 <b>nodemon index.js</b>
 
 Open http://localhost:300/index to view it in the browser.
